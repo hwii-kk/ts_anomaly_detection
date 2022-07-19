@@ -5,6 +5,6 @@
 
 ### method
 
-+ TadGAN
++ [TadGAN](https://github.com/hwii-kk/ts_anomaly_detection/tree/main/TadGAN)
 
 + Prophet
